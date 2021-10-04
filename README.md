@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Programador fudido do bot dos troxas, a dor ele sente.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnotherProgrammerrr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
